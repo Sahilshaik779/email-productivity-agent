@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "sender": "manager@corp.com",
+    "subject": "Urgent: Q3 Review Meeting",
+    "body": "Hi, can we meet this Friday at 2 PM to review the Q3 numbers? Please prepare the slide deck.",
+    "category": "Uncategorized",
+    "read": false
+  },
+  {
+    "id": 2,
+    "sender": "newsletter@techdaily.com",
+    "subject": "Tech Daily: AI is taking over",
+    "body": "Top stories today: 1. New LLM released. 2. Python 3.12 updates. Click to read more.",
+    "category": "Uncategorized",
+    "read": false
+  },
+  {
+    "id": 3,
+    "sender": "hr@corp.com",
+    "subject": "Open Enrollment for Benefits",
+    "body": "This is a reminder to complete your benefits enrollment by the end of the month.",
+    "category": "Uncategorized",
+    "read": false
+  },
+  {
+    "id": 4,
+    "sender": "scam@winner.com",
+    "subject": "YOU WON A CRUISE!",
+    "body": "Click here immediately to claim your free cruise prize!",
+    "category": "Uncategorized",
+    "read": false
+  },
+  {
+    "id": 5,
+    "sender": "colleague@corp.com",
+    "subject": "Project X Update",
+    "body": "I've pushed the latest code changes. Please review the pull request when you have a moment.",
+    "category": "Uncategorized",
+    "read": false
+  }
+]

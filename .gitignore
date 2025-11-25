@@ -1,0 +1,21 @@
+# --- Security (CRITICAL) ---
+.env
+.env.local
+
+# --- Python & System Garbage ---
+venv/
+env/
+.venv/
+
+# Python Cache (Generated automatically when you run code)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS System Files
+.DS_Store
+
+# IDE Settings 
+.vscode/
+.idea/
+
