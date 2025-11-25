@@ -1,5 +1,10 @@
 # Prompt-Driven Email Productivity Agent
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-red)
+![Gemini](https://img.shields.io/badge/AI-Google%20Gemini%202.0-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 An intelligent, prompt-driven email assistant built with **Python** and **Streamlit**. This agent leverages **Google Gemini (LLM)** to automatically categorize inboxes, extract structured action items, and generate context-aware reply drafts.
 
 The system features a **modular prompt architecture**, allowing users to configure the "Agent Brain" (prompts) directly from the UI without changing code.
@@ -7,7 +12,7 @@ The system features a **modular prompt architecture**, allowing users to configu
 ---
 
 ## Features
-
+git push -
 * **Smart Inbox Ingestion**
     * Loads mock email data from JSON.
     * Visual dashboard for reviewing email content, senders, and metadata.
