@@ -1,4 +1,5 @@
 import os
+import streamlit as st
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -9,7 +10,19 @@ class Config:
     
     # Defaults
     DEFAULT_MODEL = "gemini-2.0-flash"
-    API_KEY = os.getenv("GOOGLE_API_KEY")
+    
+    # --- SMART KEY LOADER ---
+    _key = os.getenv("GOOGLE_API_KEY")
+    
+    # 2. If not found, try getting from Streamlit Cloud Secrets
+    if not _key:
+        try:
+            _key = st.secrets["GOOGLE_API_KEY"]
+        except (FileNotFoundError, KeyError):
+            pass
+            
+    API_KEY = _key
+    # ------------------------
     
     # Default Prompts
     DEFAULT_PROMPTS = {
