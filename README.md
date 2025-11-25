@@ -52,12 +52,8 @@ This project follows a **Service-Oriented Architecture (SOA)** with a clean sepa
 
 ### 1. Clone the Repository
 ```bash
-### 1. Clone the Repository
-```bash
 git clone https://github.com/Sahilshaik779/email-productivity-agent.git
-
 cd email-productivity-agent
-
 ```
 
 ### 2. Create a Virtual Environment
