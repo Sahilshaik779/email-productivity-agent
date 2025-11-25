@@ -62,21 +62,5 @@
     "body": "See who is looking at your profile. 3 recruiters viewed your page.",
     "category": "Uncategorized",
     "read": false
-  },
-  {
-    "id": 9,
-    "sender": "ceo@corp.com",
-    "subject": "All Hands Meeting",
-    "body": "Team, please join us for the quarterly all-hands meeting this Thursday at 10 AM in the main hall.",
-    "category": "Uncategorized",
-    "read": false
-  },
-  {
-    "id": 10,
-    "sender": "unknown@crypto-king.net",
-    "subject": "Invest in Bitcoin NOW",
-    "body": "Guaranteed 500% returns in 24 hours. Send ETH to this wallet address immediately.",
-    "category": "Uncategorized",
-    "read": false
   }
 ]
