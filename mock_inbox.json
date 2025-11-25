@@ -19,7 +19,7 @@
     "id": 3,
     "sender": "hr@corp.com",
     "subject": "Open Enrollment for Benefits",
-    "body": "This is a reminder to complete your benefits enrollment by the end of the month.",
+    "body": "This is a reminder to complete your benefits enrollment by the end of the month. Use the portal to sign up.",
     "category": "Uncategorized",
     "read": false
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "sender": "scam@winner.com",
     "subject": "YOU WON A CRUISE!",
-    "body": "Click here immediately to claim your free cruise prize!",
+    "body": "Click here immediately to claim your free cruise prize! Verified winner!",
     "category": "Uncategorized",
     "read": false
   },
@@ -36,6 +36,46 @@
     "sender": "colleague@corp.com",
     "subject": "Project X Update",
     "body": "I've pushed the latest code changes. Please review the pull request when you have a moment.",
+    "category": "Uncategorized",
+    "read": false
+  },
+  {
+    "id": 6,
+    "sender": "client@bigbiz.com",
+    "subject": "Feedback on Prototype",
+    "body": "We loved the demo! Can you send us the updated pricing model by Tuesday?",
+    "category": "Uncategorized",
+    "read": false
+  },
+  {
+    "id": 7,
+    "sender": "support@software.com",
+    "subject": "Your Subscription is Expiring",
+    "body": "Your license for DevTool Pro will expire in 3 days. Please renew to avoid service interruption.",
+    "category": "Uncategorized",
+    "read": false
+  },
+  {
+    "id": 8,
+    "sender": "linkedin@notifications.com",
+    "subject": "You appeared in 5 searches this week",
+    "body": "See who is looking at your profile. 3 recruiters viewed your page.",
+    "category": "Uncategorized",
+    "read": false
+  },
+  {
+    "id": 9,
+    "sender": "ceo@corp.com",
+    "subject": "All Hands Meeting",
+    "body": "Team, please join us for the quarterly all-hands meeting this Thursday at 10 AM in the main hall.",
+    "category": "Uncategorized",
+    "read": false
+  },
+  {
+    "id": 10,
+    "sender": "unknown@crypto-king.net",
+    "subject": "Invest in Bitcoin NOW",
+    "body": "Guaranteed 500% returns in 24 hours. Send ETH to this wallet address immediately.",
     "category": "Uncategorized",
     "read": false
   }
